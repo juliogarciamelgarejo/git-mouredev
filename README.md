@@ -1,13 +1,16 @@
-# Git
+# Git Course by MoureDev - Youtube
 
-## Youtube
+## Resources
 
-(https://www.youtube.com/watch?v=3GymExBkKjE) Link
+- [Git tutorial course](https://www.youtube.com/watch?v=3GymExBkKjE)
+
+- [Git commands](https://training.github.com/downloads/es_ES/github-git-cheat-sheet/)
 
 ## Commands:
 
 - ```git config --global user.name```
 - ```git config --global user.email```
+- ```git init```
 - ```git status```
 - ```git add .```
 - ```git log```
@@ -21,3 +24,4 @@
 - ```git merge```
 - ```git stash```
 - ```git stash list```
+
