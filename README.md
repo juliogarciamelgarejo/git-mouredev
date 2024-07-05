@@ -3,7 +3,7 @@
 ## Resources
 
 - [Git tutorial course](https://www.youtube.com/watch?v=3GymExBkKjE)
-
+- [Authentication documentation (SSH)](https://docs.github.com/authentication)
 - [Git commands](https://training.github.com/downloads/es_ES/github-git-cheat-sheet/)
 
 ## Commands:
